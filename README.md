@@ -103,5 +103,3 @@ Task_03_Assignment/
 **Suhail Iqbal**
 
 ---
-
-This README is professional, concise, and suitable for uploading to GitHub with your assignment.
